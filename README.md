@@ -1,4 +1,6 @@
 # Machine Learning Researcher
+I am a PhD candidate at Purdue University where I am advised by Professor Kaushik Roy. During my PhD, I spent time at the Memory Solution Team at GlobalFoundries as a research intern.
+[[Email]](gsaha@purdue.edu)  /  Resume  /  [[LinkedIn]](https://www.linkedin.com/in/gobinda-saha) / [[Google Scholar]](https://scholar.google.com/citations?user=Y7I-7EsAAAAJ&hl=en)  /  [[Github]](https://github.com/sahagobinda) 
 
 #### Technical Skills: Python, PyTorch, AWS, MATLAB
 
