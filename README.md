@@ -50,6 +50,8 @@ I am a PhD candidate at Purdue University where I am advised by Professor Kaushi
 
 [[Paper]](https://openreview.net/forum?id=3AOj0RCNC2) [[Code]](https://github.com/sahagobinda/GPM) [[Talk Video]](https://slideslive.com/38953615/gradient-projection-memory-for-continual-learning?ref=account-84503-popular)
 
+![GPM overview](/assets/Images/gpm.png)
+
 [SPACE: Structured Compression and Sharing of Representational Space for Continual Learning](blue)
 
 - A PCA-driven network pruning and growth method for forget-free continual learning. 
