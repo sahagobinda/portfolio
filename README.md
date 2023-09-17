@@ -22,3 +22,15 @@ I am a PhD candidate at Purdue University where I am advised by Professor Kaushi
 - **01/07/2023**: Our paper [Saliency Guided Experience Packing for Replay in Continual Learning](https://openaccess.thecvf.com/content/WACV2023/html/Saha_Saliency_Guided_Experience_Packing_for_Replay_in_Continual_Learning_WACV_2023_paper.html) made the [WACV 2023 Award finalist](https://wacv2023.thecvf.com/node/174) list.
 - **07/10/2022**: Our perspective on [A cross-layer approach to cognitive computing](https://dl.acm.org/doi/abs/10.1145/3489517.3530642) was presented at ACM/IEEE Design Automation Conference 2022.
 - **01/12/2021**: Our paper [Gradient Projection Memory for Continual Learning](https://openreview.net/forum?id=3AOj0RCNC2) is selected for Oral presentation at [ICLR 2021](https://iclr.cc/Conferences/2021).
+
+## Publication 
+## [Gradient Projection Memory for Continual Learning](blue)
+
+A novel orthogonal gradient descent algorithm for forget-free continual learning in deep neural networks. 
+
+*International Conference on Learning Representations (**ICLR 2020**)* (**Oral** - top 1% paper)
+ 
+Gobinda Saha, Isha Garg, Kaushik Roy
+
+[[Paper]](https://openreview.net/forum?id=3AOj0RCNC2) [[Code]](https://github.com/sahagobinda/GPM) [[Talk Video]](https://slideslive.com/38953615/gradient-projection-memory-for-continual-learning?ref=account-84503-popular)
+
