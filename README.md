@@ -16,3 +16,9 @@ I am a PhD candidate at Purdue University where I am advised by Professor Kaushi
 
 **Research Intern, Memory Solution Team @ GlobalFoundries, USA (_June 2019 - August 2019_)**
 - contribution
+
+## News
+- **02/11/2023**: Presented our paper [Continual Learning with Scaled Gradient Projection](https://ojs.aaai.org/index.php/AAAI/article/view/26157) at [AAAI 2023]([https://wacv2023.thecvf.com/node/174](https://aaai-23.aaai.org/)), Washington, DC, USA. 
+- **01/07/2023**: Our paper [Saliency Guided Experience Packing for Replay in Continual Learning](https://openaccess.thecvf.com/content/WACV2023/html/Saha_Saliency_Guided_Experience_Packing_for_Replay_in_Continual_Learning_WACV_2023_paper.html) made the [WACV 2023 Award finalist](https://wacv2023.thecvf.com/node/174) list.
+- **07/10/2022**: Our perspective on [A cross-layer approach to cognitive computing](https://dl.acm.org/doi/abs/10.1145/3489517.3530642) was presented at ACM/IEEE Design Automation Conference 2022.
+- **01/12/2021**: Our paper [Gradient Projection Memory for Continual Learning](https://openreview.net/forum?id=3AOj0RCNC2) is selected for Oral presentation at [ICLR 2021](https://iclr.cc/Conferences/2021).
