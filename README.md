@@ -1,4 +1,4 @@
-# AI/ML Researcher
+# Machine Learning Researcher
 
 #### Technical Skills: Python, PyTorch, AWS, MATLAB
 
