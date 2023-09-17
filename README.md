@@ -26,7 +26,7 @@ I am a PhD candidate at Purdue University where I am advised by Professor Kaushi
 - **01/12/2021**: Our paper [Gradient Projection Memory for Continual Learning](https://openreview.net/forum?id=3AOj0RCNC2) is selected for Oral presentation at [ICLR 2021](https://iclr.cc/Conferences/2021).
 
 ## Publication 
-[**Continual Learning with Scaled Gradient Projection**](blue)
+[Continual Learning with Scaled Gradient Projection](blue)
 
 - A scaled gradient projection algorithm for balancing stability and plasticity during continual learning. 
 - *AAAI Conference on Artificial Intelligence (**AAAI 2023**)* 
@@ -34,7 +34,7 @@ I am a PhD candidate at Purdue University where I am advised by Professor Kaushi
 
 [[Paper]](https://openaccess.thecvf.com/content/WACV2023/html/Saha_Saliency_Guided_Experience_Packing_for_Replay_in_Continual_Learning_WACV_2023_paper.html) [[Code]](https://github.com/sahagobinda/EPR) [[Talk Video]](/assets/videos/sgp_saha_aaai_presentation.mp4)
 
-[**Saliency Guided Experience Packing for Replay in Continual Learning**](blue)
+[Saliency Guided Experience Packing for Replay in Continual Learning](blue)
 
 - A new experience replay method for continual learning where saliency methods are used to extract and store useful information from the past data to be replayed with new data. 
 - *IEEE/CVF Winter Conference on Applications of Computer Vision (**WACV 2023**)* 
@@ -42,11 +42,18 @@ I am a PhD candidate at Purdue University where I am advised by Professor Kaushi
 
 [[Paper]](https://openreview.net/forum?id=3AOj0RCNC2) [[Code]](https://github.com/sahagobinda/GPM) [[Talk Video]](/assets/videos/wacv_presentation.wmv)
 
-[**Gradient Projection Memory for Continual Learning**](blue)
+[Gradient Projection Memory for Continual Learning](blue)
 
 - A novel orthogonal gradient descent algorithm for forget-free continual learning in deep neural networks. 
-- *International Conference on Learning Representations (**ICLR 2021**)* (**Oral** - top 1% paper) 
+- *International Conference on Learning Representations (**ICLR 2021**)* (**Oral - top 1% paper**) 
 - **Gobinda Saha**, Isha Garg, Kaushik Roy
 
 [[Paper]](https://openreview.net/forum?id=3AOj0RCNC2) [[Code]](https://github.com/sahagobinda/GPM) [[Talk Video]](https://slideslive.com/38953615/gradient-projection-memory-for-continual-learning?ref=account-84503-popular)
 
+[SPACE: Structured Compression and Sharing of Representational Space for Continual Learning](blue)
+
+- A PCA-driven network pruning and growth method for forget-free continual learning. 
+- *IEEE Access 2021* 
+- **Gobinda Saha**, Isha Garg, Aayush Ankit, Kaushik Roy
+
+[[Paper]](https://ieeexplore.ieee.org/document/9605653) [[Code]](https://github.com/sahagobinda/CL_PCA) 
