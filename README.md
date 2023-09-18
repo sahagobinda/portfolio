@@ -26,6 +26,9 @@ I am a PhD candidate at Purdue University where I am advised by Professor Kaushi
 - **01/12/2021**: Our paper [Gradient Projection Memory for Continual Learning](https://openreview.net/forum?id=3AOj0RCNC2) is selected for Oral presentation at [ICLR 2021](https://iclr.cc/Conferences/2021).
 
 ## Publications 
+
+---
+
 ### [Continual Learning with Scaled Gradient Projection](blue) 
 
 **Gobinda Saha**, Kaushik Roy<br>
@@ -47,7 +50,7 @@ I am a PhD candidate at Purdue University where I am advised by Professor Kaushi
 - A new experience replay method for continual learning where explainable AI (XAI) tools such as saliency maps are used for memory selection.
 - Attained up to 5% accuracy improvement over SOTA on online continual object classification benchmarks with tiny episodic memories.
 
-![EPR overview](/assets/Images/epr.png)
+![EPR overview](/assets/Images/epr3.png)
 
 
 ### [Gradient Projection Memory for Continual Learning](blue)
@@ -78,19 +81,54 @@ I am a PhD candidate at Purdue University where I am advised by Professor Kaushi
 ### [CoDeC: Communication-Efficient Decentralized Continual Learning](blue)
 
 Sakshi Choudhary, Sai Aparna Aketi, **Gobinda Saha**, Kaushik Roy<br>
-*Preprint (arxiv)* [[Paper]](https://arxiv.org/abs/2303.15378) 
+*Preprint (arxiv), 2023* [[Paper]](https://arxiv.org/abs/2303.15378) 
 
 
 - A decentralized continual learning algorithm that combines orthogonal gradient projections with gossip-averaging among distributed agents.
-- Achieved SOTA accuracy on 3 image classification benchmarks with up to 4.8x reduced communication cost ensuring  inter-agent data privacy.  
+- Achieved SOTA accuracy on image classification tasks with up to 4.8x reduced communication ensuring  inter-agent data privacy.  
 
 ![codec overview](/assets/Images/codec.PNG)
 
 ### [Homogenizing Non-IID datasets via In-Distribution Knowledge Distillation for Decentralized Learning](blue)
 
 Deepak Ravikumar, **Gobinda Saha**, Sai Aparna Aketi, Kaushik Roy<br>
-*Preprint (arxiv)* [[Paper]](https://arxiv.org/abs/2304.04326) 
+*Preprint (arxiv), 2023* [[Paper]](https://arxiv.org/abs/2304.04326) 
 
 - A new distillation-based approach - IDKD to handle non-IID data distribution in a decentralized setting.
+
+---
+
+### [An Energy-Efficient and High Throughput in-Memory Computing Bit-Cell With Excellent Robustness Under Process Variations for Binary Neural Network](blue)
+
+**Gobinda Saha**, Zhewei Jiang, Sanjay Parihar, Cao Xi, Jack Higman, Muhammed Ahosan Ul Karim<br>
+*IEEE Access, 2021*<br> 
+[[Paper]](https://ieeexplore.ieee.org/abstract/document/9091590) 
+
+
+- Proposed a 10T bit-cell based IMC primitive for accelerating binary neural network inference.
+- Developed a Python-HSPICE based software framework for hardware-algorithm co-design.
+- Analysized performance of in-memory computing (IMC) arrays on DL workloads under nonidealities and process variations.  
+
+![Global overview](/assets/Images/global.png)
+
+### [Photonic In-Memory Computing Primitive for Spiking Neural Networks Using Phase-Change Materials](blue)
+
+Indranil Chakraborty, **Gobinda Saha**, Kaushik Roy<br>
+*Physical Review Applied, 2019*<br> 
+[[Paper]](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.11.014063) 
+
+
+- Designed optical spiking neural network based on photonic computing primitives to realize energy-efficient and fast computing.
+- Developed a device-circuit-algorithm co-design framework to evaluate their performance as SNN inference engine.  
+
+![Optical overview](/assets/Images/optical.png)
+
+### [Toward Fast Neural Computing using All-Photonic Phase Change Spiking Neurons](blue)
+
+Indranil Chakraborty, **Gobinda Saha**, Abhronil Sengupta, Kaushik Roy<br>
+*Scientific Reports, 2018*<br> 
+[[Paper]](https://www.nature.com/articles/s41598-018-31365-x) 
+
+- Designed spiking neuron based on GST (phase change material) embedded optical micro-ring resonators.
 
 ---
