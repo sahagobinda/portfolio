@@ -1,5 +1,5 @@
 # Machine Learning Researcher
-I am a PhD candidate at the Department of Electrical and Computer Engineering at Purdue University where I am advised by Professor Kaushik Roy. During my PhD, I spent time at the Memory Solution Team at GlobalFoundries as a research intern.
+I am a PhD candidate at the Department of [Electrical and Computer Engineering at Purdue University](https://engineering.purdue.edu/ECE) where I am advised by [Professor Kaushik Roy](https://engineering.purdue.edu/NRL/Group). During my PhD, I spent time at the Memory Solution Team at GlobalFoundries as a research intern.
 
 [Email](mailto:gsaha@purdue.edu)  |  [Resume](/assets/docs/GobindaSaha_Resume.pdf)  |  [LinkedIn](https://www.linkedin.com/in/gobinda-saha) | [Google Scholar](https://scholar.google.com/citations?user=Y7I-7EsAAAAJ&hl=en)  |  [Github](https://github.com/sahagobinda) 
 
