@@ -25,7 +25,7 @@ I am a PhD candidate at Purdue University where I am advised by Professor Kaushi
 - **07/10/2022**: Our perspective on [A cross-layer approach to cognitive computing](https://dl.acm.org/doi/abs/10.1145/3489517.3530642) was presented at ACM/IEEE Design Automation Conference 2022.
 - **01/12/2021**: Our paper [Gradient Projection Memory for Continual Learning](https://openreview.net/forum?id=3AOj0RCNC2) is selected for Oral presentation at [ICLR 2021](https://iclr.cc/Conferences/2021).
 
-## Publication 
+## Publications 
 ### [Continual Learning with Scaled Gradient Projection](blue) 
 
 **Gobinda Saha**, Kaushik Roy<br>
@@ -33,35 +33,44 @@ I am a PhD candidate at Purdue University where I am advised by Professor Kaushi
 [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/26157) [[Code]](https://github.com/sahagobinda/SGP) [[Talk Video]](/assets/videos/sgp_saha_aaai_presentation.mp4) 
 
 - A scaled gradient projection algorithm for balancing stability and plasticity during continual learning.
-- Attained up to 2\% higher accuracy in image classification and ~12\% more reward in reinforcement learning (Atari games) tasks than SOTA with minimal forgetting. 
+- Attained up to 2% higher accuracy in image classification and ~12% more reward in reinforcement learning (Atari games) tasks than SOTA with minimal forgetting. 
 
-![SGP overview](/assets/Images/sgp.png)
+<img src="/assets/Images/sgp.png" alt="SGP overview" width="700"/>
+
 
 ### [Saliency Guided Experience Packing for Replay in Continual Learning](blue)
 
 **Gobinda Saha**, Kaushik Roy<br>
-*IEEE/CVF Winter Conference on Applications of Computer Vision (**WACV 2023**)* 
-
-- A new experience replay method for continual learning where saliency methods are used to extract and store useful information from the past data to be replayed with new data. 
-
-![EPR overview](/assets/Images/epr.png)
-
+*IEEE/CVF Winter Conference on Applications of Computer Vision (**WACV 2023**)*<br>
 [[Paper]](https://openaccess.thecvf.com/content/WACV2023/html/Saha_Saliency_Guided_Experience_Packing_for_Replay_in_Continual_Learning_WACV_2023_paper.html) [[Code]](https://github.com/sahagobinda/EPR) [[Talk Video]](/assets/videos/wacv_presentation.wmv)
+
+- A new experience replay method for continual learning where explainable AI (XAI) tools such as saliency maps are used for memory selection.
+- Attained up to 5% accuracy improvement over SOTA on online continual object classification benchmarks with tiny episodic memories.
+
+<img src="/assets/Images/epr.png" alt="EPR overview" width="450"/>
+
 
 ### [Gradient Projection Memory for Continual Learning](blue)
 
-- A novel orthogonal gradient descent algorithm for forget-free continual learning in deep neural networks. 
-- *International Conference on Learning Representations (**ICLR 2021**)* (**Oral - top 1% paper**) 
-- **Gobinda Saha**, Isha Garg, Kaushik Roy
-
+**Gobinda Saha**, Isha Garg, Kaushik Roy<br>
+*International Conference on Learning Representations (**ICLR 2021**)* (**Oral - top 1% paper**)<br>
 [[Paper]](https://openreview.net/forum?id=3AOj0RCNC2) [[Code]](https://github.com/sahagobinda/GPM) [[Talk Video]](https://slideslive.com/38953615/gradient-projection-memory-for-continual-learning?ref=account-84503-popular)
 
-![GPM overview](/assets/Images/gpm.png)
+- A novel orthogonal gradient descent algorithm for forget-free continual learning in deep neural networks. 
+- Obtained near zero forgetting on continual object classification tasks.  
+
+<img src="/assets/Images/gpm.png" alt="GPM overview" width="700"/>
+
 
 ### [SPACE: Structured Compression and Sharing of Representational Space for Continual Learning](blue)
 
-- A PCA-driven network pruning and growth method for forget-free continual learning. 
-- *IEEE Access 2021* 
-- **Gobinda Saha**, Isha Garg, Aayush Ankit, Kaushik Roy
-
+**Gobinda Saha**, Isha Garg, Aayush Ankit, Kaushik Roy<br>
+*IEEE Access 2021*<br> 
 [[Paper]](https://ieeexplore.ieee.org/document/9605653) [[Code]](https://github.com/sahagobinda/CL_PCA) 
+
+- A PCA-driven network pruning and growth method for forget-free continual learning. 
+- Achieved zero forgetting with up to 5x energy efficiency during inference due to emerging sparsity.
+
+<img src="/assets/Images/space.png" alt="SPACE overview" width="600"/>
+
+---
