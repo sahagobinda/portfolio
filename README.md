@@ -44,6 +44,7 @@ I am a PhD candidate at Purdue University where I am advised by Professor Kaushi
 
 - A new experience replay method for continual learning where saliency methods are used to extract and store useful information from the past data to be replayed with new data. 
 
+![EPR overview](/assets/Images/epr.png)
 
 [[Paper]](https://openaccess.thecvf.com/content/WACV2023/html/Saha_Saliency_Guided_Experience_Packing_for_Replay_in_Continual_Learning_WACV_2023_paper.html) [[Code]](https://github.com/sahagobinda/EPR) [[Talk Video]](/assets/videos/wacv_presentation.wmv)
 
