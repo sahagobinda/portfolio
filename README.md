@@ -74,3 +74,14 @@ I am a PhD candidate at Purdue University where I am advised by Professor Kaushi
 <img src="/assets/Images/space.png" alt="SPACE overview" width="600"/>
 
 ---
+
+### [CoDeC: Communication-Efficient Decentralized Continual Learning](blue)
+
+Sakshi Choudhary, Sai Aparna Aketi, **Gobinda Saha**, Kaushik Roy<br>
+*Preprint (arxiv)* [[Paper]](https://arxiv.org/abs/2303.15378) 
+
+
+- A decentralized continual learning algorithm that combines orthogonal gradient projections with gossip-averaging among distributed agents.
+- Achieved SOTA accuracy on 3 image classification benchmarks with up to 4.8x reduced communication cost ensuring  inter-agent data privacy.  
+
+<img src="/assets/Images/codec.png" alt="CoDeC overview" width="600"/>
