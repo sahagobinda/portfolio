@@ -1,5 +1,5 @@
 # Machine Learning Researcher
-I am a PhD candidate at Purdue University where I am advised by Professor Kaushik Roy. During my PhD, I spent time at the Memory Solution Team at GlobalFoundries as a research intern.
+I am a PhD candidate at the Department of Electrical and Computer Engineering at Purdue University where I am advised by Professor Kaushik Roy. During my PhD, I spent time at the Memory Solution Team at GlobalFoundries as a research intern.
 
 [Email](mailto:gsaha@purdue.edu)  |  [Resume](/assets/docs/GobindaSaha_Resume.pdf)  |  [LinkedIn](https://www.linkedin.com/in/gobinda-saha) | [Google Scholar](https://scholar.google.com/citations?user=Y7I-7EsAAAAJ&hl=en)  |  [Github](https://github.com/sahagobinda) 
 
@@ -11,13 +11,18 @@ I am a PhD candidate at Purdue University where I am advised by Professor Kaushi
 - M.S., Electrical and Electronic Engineering	| Bangladesh University of Engineering and Technology (_Aughts 2015_)	 			        		
 - B.S., Electrical and Electronic Engineering | Bangladesh University of Engineering and Technology (_February 2013_)
 
+-->
+
 ## Work Experience
 **Graduate Research Assistant @ Purdue University (_August 2017 - Present_)**
-- contribution
+- Project 1: Efficient Continual Learning in Deep Neural Networks
+- Project 2: Decentralized Learning with non-IID data and in Continual Learning setups
+- Project 3: Hardware accelerator design with Photonic in-memory-computing primitives for Spiking Neural Networks
 
 **Research Intern, Memory Solution Team @ GlobalFoundries, USA (_June 2019 - August 2019_)**
-- contribution
--->
+- Project : Software framework development for hardware-algorithm co-design for deep learning applications 
+
+
 
 ## News
 - **02/11/2023**: Presented our paper [Continual Learning with Scaled Gradient Projection](https://ojs.aaai.org/index.php/AAAI/article/view/26157) at [AAAI 2023]([https://wacv2023.thecvf.com/node/174](https://aaai-23.aaai.org/)), Washington, DC, USA. 
