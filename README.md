@@ -84,7 +84,7 @@ Sakshi Choudhary, Sai Aparna Aketi, **Gobinda Saha**, Kaushik Roy<br>
 - A decentralized continual learning algorithm that combines orthogonal gradient projections with gossip-averaging among distributed agents.
 - Achieved SOTA accuracy on 3 image classification benchmarks with up to 4.8x reduced communication cost ensuring  inter-agent data privacy.  
 
-![codec overview](/assets/Images/codec.png)
+![codec overview](/assets/Images/codec.PNG)
 
 ### [Homogenizing Non-IID datasets via In-Distribution Knowledge Distillation for Decentralized Learning](blue)
 
