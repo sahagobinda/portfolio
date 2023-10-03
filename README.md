@@ -68,7 +68,7 @@ During my PhD, I worked on deep learning optimizer and algorithm design, specifi
 
 **Gobinda Saha**, Isha Garg, Kaushik Roy<br>
 *International Conference on Learning Representations (**ICLR 2021**)* (**Oral - top 1% paper**)<br>
-[[Paper]](https://openreview.net/forum?id=3AOj0RCNC2) [[Code]](https://github.com/sahagobinda/GPM) [[Talk Video]](https://slideslive.com/38953615/gradient-projection-memory-for-continual-learning?ref=account-84503-popular)
+[[Paper]](https://openreview.net/forum?id=3AOj0RCNC2) [[Code]](https://github.com/sahagobinda/GPM) [[Talk Video]](https://slideslive.com/38953615/gradient-projection-memory-for-continual-learning?ref=account-84503-popular) [[Poster]](/assets/docs/GPM_poster_final.pdf)
 
 - A novel orthogonal gradient descent algorithm for forget-free continual learning in deep neural networks. 
 - Obtained near zero forgetting on continual object classification tasks.  
