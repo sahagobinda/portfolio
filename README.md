@@ -19,7 +19,8 @@ During my PhD, I worked on deep learning optimizer and algorithm design, specifi
 **Graduate Research Assistant @ Purdue University (_August 2017 - Present_)**
 - Project 1: Efficient Continual Learning in Deep Neural Networks
 - Project 2: Decentralized Learning with non-IID data and in Continual Learning setups
-- Project 3: Hardware accelerator design with Photonic in-memory-computing primitives for Spiking Neural Networks
+- Project 3: Machine Unlearning Algorithms for Removing Effect of Data Noise and Anomalies and to Preserve Privacy in Vision/Language/Multimodal Models  
+- Project 4: Hardware accelerator design with Photonic in-memory-computing primitives for Spiking Neural Networks
 
 **Research Intern, Memory Solution Team @ GlobalFoundries, USA (_June 2019 - August 2019_)**
 - Project: Software framework development for hardware-algorithm co-design for deep learning applications 
