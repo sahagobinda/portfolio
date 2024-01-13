@@ -28,6 +28,7 @@ During my PhD, I worked on deep learning optimizer and algorithm design, specifi
 
 
 ## News
+- **01/10/2023**: Served as a reviewer for CVPR 2024. 
 - **09/27/2023**: Presented a collection of works done during my PhD at [Boston Dynamics AI Institute](https://theaiinstitute.com/), Cambridge, MA, USA. 
 - **02/11/2023**: Presented our paper [Continual Learning with Scaled Gradient Projection](https://ojs.aaai.org/index.php/AAAI/article/view/26157) at [AAAI 2023]([https://wacv2023.thecvf.com/node/174](https://aaai-23.aaai.org/)), Washington, DC, USA. 
 - **01/07/2023**: Our paper [Saliency Guided Experience Packing for Replay in Continual Learning](https://openaccess.thecvf.com/content/WACV2023/html/Saha_Saliency_Guided_Experience_Packing_for_Replay_in_Continual_Learning_WACV_2023_paper.html) made the [WACV 2023 Award finalist](https://wacv2023.thecvf.com/node/174) list.
@@ -105,9 +106,19 @@ Sakshi Choudhary, Sai Aparna Aketi, **Gobinda Saha**, Kaushik Roy<br>
 ### [Homogenizing Non-IID datasets via In-Distribution Knowledge Distillation for Decentralized Learning](blue)
 
 Deepak Ravikumar, **Gobinda Saha**, Sai Aparna Aketi, Kaushik Roy<br>
-*Preprint (arxiv), 2023* [[Paper]](https://arxiv.org/abs/2304.04326) 
+*Preprint (arxiv), 2023* [[Paper]](https://arxiv.org/abs/2312.00761) 
 
 - A new distillation-based approach - IDKD to handle non-IID data distribution in a decentralized setting.
+
+---
+### [Deep Unlearning: Fast and Efficient Training-free Approach to Controlled Forgetting](blue)
+
+Sangamesh Kodge, **Gobinda Saha**, Kaushik Roy<br>
+*Preprint (arxiv), 2023* [[Paper]](https://arxiv.org/abs/2304.04326) 
+
+- A new Singular Value decomposition-based algorithm that unlearns requested classes of data from a pre-trained model without any retraining or finetuing!
+
+![Unlearning overview](/assets/Images/unlearning.PNG)
 
 ---
 
