@@ -6,7 +6,7 @@ During my PhD, I worked on deep learning optimizer and algorithm design, specifi
 [Email](mailto:gsaha@purdue.edu)  |  [Resume](/assets/docs/GobindaSaha_Resume.pdf)  |  [LinkedIn](https://www.linkedin.com/in/gobinda-saha) | [Google Scholar](https://scholar.google.com/citations?user=Y7I-7EsAAAAJ&hl=en)  |  [Github](https://github.com/sahagobinda) 
 
 <!---
-#### Technical Skills: Python, PyTorch, AWS, MATLAB
+#### Technical Skills: Python, PyTorch, C, C++, AWS, MATLAB
 
 ## Education
 - Ph.D., Electrical and Computer Engineering | Purdue University (_October 2023_)								       		
