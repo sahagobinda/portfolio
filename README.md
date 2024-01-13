@@ -118,7 +118,7 @@ Sangamesh Kodge, **Gobinda Saha**, Kaushik Roy<br>
 
 - A new Singular Value decomposition-based algorithm that unlearns requested classes of data from a pre-trained model without any retraining or finetuing!
 
-![Unlearning overview](/assets/Images/unlearning.png)
+![Unlearning overview](/assets/Images/unlearning.PNG)
 
 ---
 
