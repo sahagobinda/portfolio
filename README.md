@@ -106,7 +106,7 @@ Sakshi Choudhary, Sai Aparna Aketi, **Gobinda Saha**, Kaushik Roy<br>
 ### [Homogenizing Non-IID datasets via In-Distribution Knowledge Distillation for Decentralized Learning](blue)
 
 Deepak Ravikumar, **Gobinda Saha**, Sai Aparna Aketi, Kaushik Roy<br>
-*Preprint (arxiv), 2023* [[Paper]](https://arxiv.org/abs/2312.00761) 
+*Preprint (arxiv), 2023* [[Paper]](https://arxiv.org/abs/2304.04326) 
 
 - A new distillation-based approach - IDKD to handle non-IID data distribution in a decentralized setting.
 
@@ -114,7 +114,7 @@ Deepak Ravikumar, **Gobinda Saha**, Sai Aparna Aketi, Kaushik Roy<br>
 ### [Deep Unlearning: Fast and Efficient Training-free Approach to Controlled Forgetting](blue)
 
 Sangamesh Kodge, **Gobinda Saha**, Kaushik Roy<br>
-*Preprint (arxiv), 2023* [[Paper]](https://arxiv.org/abs/2304.04326) 
+*Preprint (arxiv), 2023* [[Paper]](https://arxiv.org/abs/2312.00761) 
 
 - A new Singular Value decomposition-based algorithm that unlearns requested classes of data from a pre-trained model without any retraining or finetuing!
 
