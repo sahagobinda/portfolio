@@ -95,7 +95,7 @@ During my PhD, I worked on deep learning optimizer and algorithm design, specifi
 ### [CoDeC: Communication-Efficient Decentralized Continual Learning](blue)
 
 Sakshi Choudhary, Sai Aparna Aketi, **Gobinda Saha**, Kaushik Roy<br>
-*Preprint (arxiv), 2023* [[Paper]](https://arxiv.org/abs/2303.15378) 
+*Transactions on Machine Learning Research (TMLR), 2024* [[Paper]]([https://arxiv.org/abs/2303.15378](https://openreview.net/forum?id=N05OnQG1BA&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DTMLR%2FAuthors%23your-submissions))) 
 
 
 - A decentralized continual learning algorithm that combines orthogonal gradient projections with gossip-averaging among distributed agents.
